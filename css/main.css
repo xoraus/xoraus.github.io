@@ -3842,7 +3842,7 @@ button {
   .project__info_text {
     font-size: 19px; } }
 .project__info_text h1 {
-  font-weight: 900; }  
+  font-weight: 900; }
 .case_curtain__content_box > * {
   -webkit-transition: -webkit-transform .4s 1.3s ease, opacity .4s 0.7s ease;
   -moz-transition: -moz-transform .4s 1.3s ease, opacity .4s 0.7s ease;
@@ -4280,7 +4280,7 @@ button {
     border: 1px solid #333333;
     border-radius: 5px; }
   .main_screen_content {
-    background: url(../img/bg/avatar.svg) no-repeat 80% 50% / contain; }
+    background: url(../img/bg/XorausLogo.png) no-repeat 80% 50% / contain; }
       @media (max-width: 950px) { .main_screen_content {
            background: rgb(255,255,255); } }
 
